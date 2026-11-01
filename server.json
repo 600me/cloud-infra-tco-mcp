@@ -1,6 +1,12 @@
 {
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.600me/cloud-infra-tco-mcp",
+  "title": "Cloud Infra TCO MCP Server",
   "description": "Calculate real 2026 TCO across Cloud GPUs, Proxies, Scraping APIs, PDF APIs, US LLCs & iPaaS.",
+  "repository": {
+    "url": "https://github.com/600me/cloud-infra-tco-mcp",
+    "source": "github"
+  },
   "version": "1.0.0",
   "packages": [
     {

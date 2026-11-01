@@ -32,5 +32,6 @@
     "type": "git",
     "url": "https://github.com/600me/cloud-infra-tco-mcp.git"
   },
-  "homepage": "https://proxy.mybskm.top/docs/"
+  "homepage": "https://proxy.mybskm.top/docs/",
+  "mcpName": "io.github.600me/cloud-infra-tco-mcp"
 }
