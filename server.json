@@ -1,0 +1,13 @@
+{
+  "name": "io.github.600me/cloud-infra-tco-mcp",
+  "description": "Calculate real 2026 TCO across Cloud GPUs, Proxies, Scraping APIs, PDF APIs, US LLCs & iPaaS.",
+  "version": "1.0.0",
+  "packages": [
+    {
+      "registry_name": "npm",
+      "name": "cloud-infra-tco-mcp",
+      "version": "1.0.0",
+      "runtime": "node"
+    }
+  ]
+}

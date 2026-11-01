@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "600me"
+  ],
+  "name": "cloud-infra-tco-mcp",
+  "description": "2026 Developer Infrastructure & Cloud TCO Benchmark MCP Server across 6 verticals (GPU Cloud, Residential Proxies, Scraping APIs, HTML-to-PDF APIs, US LLC & MoR Payments, SEO & iPaaS Automation)."
+}
